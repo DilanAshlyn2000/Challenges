@@ -27,6 +27,5 @@ public class OddEven {
         }
         sc.close();
     }
-
 	}
 
