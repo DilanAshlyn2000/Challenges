@@ -26,6 +26,6 @@ public class OddEven {
             System.out.println("Not Weird");
         }
         sc.close();
-    }
+     }
 	}
 

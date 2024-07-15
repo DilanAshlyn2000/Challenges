@@ -30,7 +30,7 @@ public class PrimeFactorization {
 		if (n > 2) {
 			System.out.print(n);
 		 }
-	 }
+	  }
 }
 
 

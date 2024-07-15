@@ -30,6 +30,6 @@ public class PrimeNumber {
 				return false;
 			}
 		 }
-		return true;
+		 return true;
 	}
 }
