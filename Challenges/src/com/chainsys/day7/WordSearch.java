@@ -27,7 +27,6 @@ package com.chainsys.day7;
 	        } else {
 	            System.out.println("The word \"" + wordToSearch + "\" was not found in the text.");
 	        }
-
 	        scanner.close();
 	    }
 	}

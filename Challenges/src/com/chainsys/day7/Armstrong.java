@@ -1,8 +1,8 @@
 package com.chainsys.day7;
 
 	import java.util.Scanner;
-
 	public class Armstrong {
+		//An Armstrong number is a whole number that’s equal to the sum of its digits raised to the power of the total number of digits. For example, 153 is an Armstrong number because there are three digits, and 153 = 13 + 53 + 33. The four-digit number 8208 is also an Armstrong number, as 8208 = 84 + 24 + 04 + 84.
 	    public static void main(String[] args) {
 	        Scanner sc = new Scanner(System.in);
 	        System.out.print("Enter a number: ");
